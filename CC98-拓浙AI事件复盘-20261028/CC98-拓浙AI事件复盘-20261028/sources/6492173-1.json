@@ -1,0 +1,193 @@
+{
+  "pagination": [
+    {
+      "href": "https://www.cc98.org/topic/6492173/1#1",
+      "text": "1"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/2#1",
+      "text": "2"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/3#1",
+      "text": "3"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/4#1",
+      "text": "4"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/5#1",
+      "text": "5"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/6#1",
+      "text": "6"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/7#1",
+      "text": "7"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/12#1",
+      "text": "12"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/1#1",
+      "text": "1"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/2#1",
+      "text": "2"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/3#1",
+      "text": "3"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/4#1",
+      "text": "4"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/5#1",
+      "text": "5"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/6#1",
+      "text": "6"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/7#1",
+      "text": "7"
+    },
+    {
+      "href": "https://www.cc98.org/topic/6492173/12#1",
+      "text": "12"
+    }
+  ],
+  "posts": [
+    {
+      "context": "AGXyq\n帖数 659\n粉丝 89\n威望 1\n最后登录 1小时内\n关注\n私信\n我们是浙江大学AI生态团队，是一批热爱AI，热衷开源的伙伴，以产学结合，0路演、0包装的理念，在学校智能生命健康组、minimax、阿里云、魔搭社区、阶跃星辰支持下发起一场校园极速黑客松。我们面向全校同学，不限专业、年级，只要你有想法、善于用AI开发，都欢迎报名！鸣谢@Ephemerall@xsh一起主办了这场比赛！感谢智能生命健康组的经费赞助！\n一、简介\n1、时间：5月10日 9:00-16:00\n2、地点：北2-112\n3、奖金：总额16500元，第一名3000元（1000元用于犒劳志愿者）还有企业内推+官方技术认证，优秀项目孵化支持\n4、彩蛋：比赛作为未来学习中心项目，会剪辑成宣传片与海报在5月11日展示\n\n\n二、赛事亮点\n5小时：现场拿到命题，你需要独立完成需求解析、架构设计、开发到部署，全流程输出一个可运行、可体验、可验证的 AI 应用。\n1人参赛：你的独立思考和快速学习能力就是胜负关键。\n0路演0包装：不考口才，不看 PPT，评审只看作品完成度、功能可用性和技术创新性。\nAI原生开发：允许用 Codex、Claude、Cursor等工具，考察你对新一代生产力工具的驾驭能力。\n\n\n三、第一季赛题：AI×大健康\n利用AI agent，解决医疗、生物、医药等等与大健康相关的实际问题，强调利用AI解决未知问题，需要一定的跨界适应能力。 \n\n四、奖金设计：\n冠军3000元，亚军2000元，季军1500元，第4–10名每人1000元，第11–20名每人300元\n\n五、企业权益：\n1、MiniMax \n①\tTokenPlan Plus 月卡\t每位获奖选手 1 张月卡\n②\tMiniMax 卓越技术认证\t电子证书形式，可用于简历展示\n③\t优秀项目资源支持\t需审核，为优秀作品提供后续资源\n④\t简历内推渠道\t有机会获得 MiniMax 内推机会\n2、StepFun 专项权益\n①\t1亿Token\t每位选手的开放平台都会发1亿token\n②\tStepFun周边\t每一位选手都会领取到StepFun周边\n③\t优秀项目资源支持\t需审核，为优秀作品提供后续资源\n④\t简历内推渠道\t有机会获得 StepFun内推机会\n3、魔搭社区\n①全体参赛选手  \t魔搭周边伴手礼（100 份）\n②获奖选手（前十名）\t高阶周边礼品（10 份）\n③优秀选手\t实习生内推资格\n④优秀作品\t上架魔搭创空间展示\n4、阿里云\n①云工开物300元代金券\n②qoder套餐积分\n③优秀项目扶持\n\n5、AI生态与产学结合\n前20名选手直接成为浙大 AI 生态社区会员，优秀作品可对接产学合作项目和开源孵化资源（未来学习中心与计算机联合实验室支持）\n\n六、AI生态团队介绍\n我们从各个社团走来，希望能够搭建AI社区，整合起每个小生态，汇聚起更强的力量，帮助更多伙伴学习AI、拥抱AI！有兴趣一起来建设浙大AI生态的朋友可以加我~\n\n我们目前获得的支持如下：\n1.官方支持：智能生命健康组、浙大ai实验室\n2.社团支持：XLAB,ZJUAI,AIRA,EAI,KAB等AI相关社团支持\n3.企业支持：我们已与字节，minimax，阿里云，魔搭，阶跃星辰等企业达成长期合作。\n\n我们的官网拓途浙享 http://tuotuzju.com下，目前有：\n1、\t活动聚合，聚合校园各种志愿者、二课分活动\n2、\tAI社区，最新推出，分为日报、技术分享、交流求助与社群meetup，欢迎有兴趣的朋友加入AI社区。\n3、\t本场黑客松\n\n七、报名入口&官网\nhttp://tuotuzju.com/hackathon\n也欢迎志愿者加群，100元犒劳。\n会摄影或剪辑的朋友也可以加群联系~有酬劳\n官方微信群，发布详细赛程\n大家帮顶一下呀\n群满了，加我微信帮拉吧，备注姓名➕黑客松~\n\n\n最后，祝大家学业顺利，五一快乐！\n发表于 2026-04-28 23:13:25该帖最后由 作者 在 2026-04-29 19:53:29 编辑\n128\n54\n评分\n引用\n追踪\n“我的天台 从来热爱”\n1",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">我们是浙江大学AI生态团队，是一批热爱AI，热衷开源的伙伴，以产学结合，0路演、0包装的理念，在<span style=\"font-weight: bold;\">学校智能生命健康组、minimax、阿里云、魔搭社区、阶跃星辰</span>支持下发起一场校园极速黑客松。我们面向全校同学，不限专业、年级，只要<span style=\"font-weight: bold;\">你有想法、善于用AI开发</span>，都欢迎报名！鸣谢@Ephemerall@xsh一起主办了这场比赛！感谢智能生命健康组的经费赞助！\n<span style=\"font-weight: bold;\">一、简介</span>\n1、时间：5月10日 9:00-16:00\n2、地点：北2-112\n3、奖金：总额<span style=\"font-weight: bold;\">16500元</span>，第一名<span style=\"font-weight: bold;\">3000元</span><div style=\"display: inline;\"><img src=\"/static/images/em/em06.gif\" alt=\"\"></div>（1000元用于犒劳志愿者）还有企业内推+官方技术认证，优秀项目孵化支持\n4、彩蛋：比赛作为未来学习中心项目，会剪辑成宣传片与海报在5月11日展示<div style=\"display: inline;\"><img src=\"/static/images/tb/tb02.png\" alt=\"\"></div>\n<div><div class=\"visibleImage\"></div><img src=\"https://file.cc98.org/v4-upload/d/2026/0428/3j50zej0.webp\" style=\"max-width: 100%; transform: rotate(0deg);\"></div>\n<span style=\"font-weight: bold;\">二、赛事亮点</span>\n5小时：现场拿到命题，你需要独立完成需求解析、架构设计、开发到部署，全流程输出一个可运行、可体验、可验证的 AI 应用。\n1人参赛：你的独立思考和快速学习能力就是胜负关键。\n0路演0包装：不考口才，不看 PPT，评审只看作品完成度、功能可用性和技术创新性。\nAI原生开发：允许用 Codex、Claude、Cursor等工具，考察你对新一代生产力工具的驾驭能力。\n<div><div class=\"visibleImage\"></div><img src=\"https://file.cc98.org/v4-upload/d/2026/0428/22my0zs1.webp\" style=\"max-width: 100%; transform: rotate(0deg);\"></div>\n<span style=\"font-weight: bold;\">三、第一季赛题</span>：AI×大健康\n利用AI agent，解决医疗、生物、医药等等与大健康相关的实际问题，强调利用<span style=\"font-weight: bold;\">AI解决未知问题</span>，需要一定的跨界适应能力。 \n\n<span style=\"font-weight: bold;\">四、奖金设计</span>：\n<span style=\"font-weight: bold;\">冠军3000元，亚军2000元，季军1500元</span>，第4–10名每人1000元，第11–20名每人300元\n\n<span style=\"font-weight: bold;\">五、企业权益</span>：\n1、MiniMax \n①\tTokenPlan Plus 月卡\t每位获奖选手 1 张月卡\n②\tMiniMax 卓越技术认证\t电子证书形式，可用于简历展示\n③\t优秀项目资源支持\t需审核，为优秀作品提供后续资源\n④\t简历内推渠道\t有机会获得 MiniMax 内推机会\n2、StepFun 专项权益\n①\t1亿Token\t每位选手的开放平台都会发1亿token\n②\tStepFun周边\t每一位选手都会领取到StepFun周边\n③\t优秀项目资源支持\t需审核，为优秀作品提供后续资源\n④\t简历内推渠道\t有机会获得 StepFun内推机会\n3、魔搭社区\n①全体参赛选手  \t魔搭周边伴手礼（100 份）\n②获奖选手（前十名）\t高阶周边礼品（10 份）\n③优秀选手\t实习生内推资格\n④优秀作品\t上架魔搭创空间展示\n4、阿里云\n①云工开物300元代金券\n②qoder套餐积分\n③优秀项目扶持\n\n5、AI生态与产学结合\n前20名选手直接成为浙大 AI 生态社区会员，优秀作品可对接产学合作项目和开源孵化资源（未来学习中心与计算机联合实验室支持）\n\n<span style=\"font-weight: bold;\">六、AI生态团队介绍</span>\n我们从各个社团走来，希望能够搭建AI社区，整合起每个小生态，汇聚起更强的力量，帮助更多伙伴学习AI、拥抱AI！有兴趣一起来建设浙大AI生态的朋友可以加我~<div style=\"display: inline;\"><img src=\"/static/images/em/em06.gif\" alt=\"\"></div>\n\n我们目前获得的支持如下：\n1.官方支持：智能生命健康组、浙大ai实验室\n2.社团支持：XLAB,ZJUAI,AIRA,EAI,KAB等AI相关社团支持<div style=\"display: inline;\"><img src=\"/static/images/tb/tb02.png\" alt=\"\"></div>\n3.企业支持：我们已与字节，minimax，阿里云，魔搭，阶跃星辰等企业达成长期合作。\n\n我们的官网拓途浙享 <a href=\"http://tuotuzju.com\" target=\"_blank\" class=\"urlStyle\">http://tuotuzju.com</a>下，目前有：\n1、\t活动聚合，聚合校园各种志愿者、二课分活动\n2、\tAI社区，最新推出，分为日报、技术分享、交流求助与社群meetup，欢迎有兴趣的朋友加入AI社区。\n3、\t本场黑客松<div style=\"display: inline;\"><img src=\"/static/images/em/em06.gif\" alt=\"\"></div>\n\n<span style=\"font-weight: bold;\">七、报名入口&amp;官网</span>\n<a href=\"http://tuotuzju.com/hackathon\" target=\"_blank\" class=\"urlStyle\">http://tuotuzju.com/hackathon</a>\n也欢迎志愿者加群，100元犒劳。\n会摄影或剪辑的朋友也可以加群联系~有酬劳\n官方微信群，发布详细赛程\n大家帮顶一下呀<div style=\"display: inline;\"><img src=\"/static/images/em/em06.gif\" alt=\"\"></div>\n群满了，加我微信帮拉吧，备注姓名➕黑客松~\n<div><div class=\"visibleImage\"></div><div class=\"lazyload-placeholder\" style=\"height: 300px;\"></div></div>\n最后，祝大家学业顺利，五一快乐！</article></div>",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/em/em06.gif"
+        },
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/tb/tb02.png"
+        },
+        {
+          "alt": "",
+          "src": "https://file.cc98.org/v4-upload/d/2026/0428/3j50zej0.webp"
+        },
+        {
+          "alt": "",
+          "src": "https://file.cc98.org/v4-upload/d/2026/0428/22my0zs1.webp"
+        },
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/em/em06.gif"
+        },
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/tb/tb02.png"
+        },
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/em/em06.gif"
+        },
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/em/em06.gif"
+        }
+      ],
+      "links": [
+        {
+          "href": "http://tuotuzju.com/",
+          "text": "http://tuotuzju.com"
+        },
+        {
+          "href": "http://tuotuzju.com/hackathon",
+          "text": "http://tuotuzju.com/hackathon"
+        }
+      ],
+      "text": "我们是浙江大学AI生态团队，是一批热爱AI，热衷开源的伙伴，以产学结合，0路演、0包装的理念，在学校智能生命健康组、minimax、阿里云、魔搭社区、阶跃星辰支持下发起一场校园极速黑客松。我们面向全校同学，不限专业、年级，只要你有想法、善于用AI开发，都欢迎报名！鸣谢@Ephemerall@xsh一起主办了这场比赛！感谢智能生命健康组的经费赞助！\n一、简介\n1、时间：5月10日 9:00-16:00\n2、地点：北2-112\n3、奖金：总额16500元，第一名3000元（1000元用于犒劳志愿者）还有企业内推+官方技术认证，优秀项目孵化支持\n4、彩蛋：比赛作为未来学习中心项目，会剪辑成宣传片与海报在5月11日展示\n\n\n二、赛事亮点\n5小时：现场拿到命题，你需要独立完成需求解析、架构设计、开发到部署，全流程输出一个可运行、可体验、可验证的 AI 应用。\n1人参赛：你的独立思考和快速学习能力就是胜负关键。\n0路演0包装：不考口才，不看 PPT，评审只看作品完成度、功能可用性和技术创新性。\nAI原生开发：允许用 Codex、Claude、Cursor等工具，考察你对新一代生产力工具的驾驭能力。\n\n\n三、第一季赛题：AI×大健康\n利用AI agent，解决医疗、生物、医药等等与大健康相关的实际问题，强调利用AI解决未知问题，需要一定的跨界适应能力。 \n\n四、奖金设计：\n冠军3000元，亚军2000元，季军1500元，第4–10名每人1000元，第11–20名每人300元\n\n五、企业权益：\n1、MiniMax \n①\tTokenPlan Plus 月卡\t每位获奖选手 1 张月卡\n②\tMiniMax 卓越技术认证\t电子证书形式，可用于简历展示\n③\t优秀项目资源支持\t需审核，为优秀作品提供后续资源\n④\t简历内推渠道\t有机会获得 MiniMax 内推机会\n2、StepFun 专项权益\n①\t1亿Token\t每位选手的开放平台都会发1亿token\n②\tStepFun周边\t每一位选手都会领取到StepFun周边\n③\t优秀项目资源支持\t需审核，为优秀作品提供后续资源\n④\t简历内推渠道\t有机会获得 StepFun内推机会\n3、魔搭社区\n①全体参赛选手  \t魔搭周边伴手礼（100 份）\n②获奖选手（前十名）\t高阶周边礼品（10 份）\n③优秀选手\t实习生内推资格\n④优秀作品\t上架魔搭创空间展示\n4、阿里云\n①云工开物300元代金券\n②qoder套餐积分\n③优秀项目扶持\n\n5、AI生态与产学结合\n前20名选手直接成为浙大 AI 生态社区会员，优秀作品可对接产学合作项目和开源孵化资源（未来学习中心与计算机联合实验室支持）\n\n六、AI生态团队介绍\n我们从各个社团走来，希望能够搭建AI社区，整合起每个小生态，汇聚起更强的力量，帮助更多伙伴学习AI、拥抱AI！有兴趣一起来建设浙大AI生态的朋友可以加我~\n\n我们目前获得的支持如下：\n1.官方支持：智能生命健康组、浙大ai实验室\n2.社团支持：XLAB,ZJUAI,AIRA,EAI,KAB等AI相关社团支持\n3.企业支持：我们已与字节，minimax，阿里云，魔搭，阶跃星辰等企业达成长期合作。\n\n我们的官网拓途浙享 http://tuotuzju.com下，目前有：\n1、\t活动聚合，聚合校园各种志愿者、二课分活动\n2、\tAI社区，最新推出，分为日报、技术分享、交流求助与社群meetup，欢迎有兴趣的朋友加入AI社区。\n3、\t本场黑客松\n\n七、报名入口&官网\nhttp://tuotuzju.com/hackathon\n也欢迎志愿者加群，100元犒劳。\n会摄影或剪辑的朋友也可以加群联系~有酬劳\n官方微信群，发布详细赛程\n大家帮顶一下呀\n群满了，加我微信帮拉吧，备注姓名➕黑客松~\n\n\n最后，祝大家学业顺利，五一快乐！"
+    },
+    {
+      "context": "lytttttt\n帖数 838\n粉丝 46\n威望 0\n最后登录 1小时内\n关注\n私信\n有趣bd\n发表于 2026-04-28 23:15:10该帖最后由 作者 在 2026-04-28 23:15:24 编辑\n6\n3\n评分\n引用\n追踪\n我们必不可停止探索，而一切探索的尽头，就是重回起点，并对起点有如初见般的了解。\n2",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">有趣bd<div style=\"display: inline;\"><img src=\"/static/images/em/em06.gif\" alt=\"\"></div><div style=\"display: inline;\"><img src=\"/static/images/em/em00.gif\" alt=\"\"></div></article></div>",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/em/em06.gif"
+        },
+        {
+          "alt": "",
+          "src": "https://www.cc98.org/static/images/em/em00.gif"
+        }
+      ],
+      "links": [],
+      "text": "有趣bd"
+    },
+    {
+      "context": "普天之下\n帖数 1390\n粉丝 4\n威望 0\n最后登录 1小时内\n关注\n私信\nbdbd\n发表于 2026-04-28 23:16:09\n0\n0\n评分\n引用\n追踪\n3",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bdbd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bdbd"
+    },
+    {
+      "context": "ephemerall\n帖数 408\n粉丝 1993\n威望 4\n最后登录 4个月前\n关注\n私信\nbd\n发表于 2026-04-28 23:16:21\n9\n12\n评分\n引用\n追踪\n欢迎访问个人网站：ephemeral6.github.io。\n4",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bd"
+    },
+    {
+      "context": "Tarnished\n帖数 127\n粉丝 24\n威望 1\n最后登录 1小时内\n关注\n私信\nbdbd\n发表于 2026-04-28 23:17:34\n1\n0\n评分\n引用\n追踪\n5",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bdbd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bdbd"
+    },
+    {
+      "context": "Freogy\n帖数 2472\n粉丝 34\n威望 2\n最后登录 1小时内\n关注\n私信\nbdbd\n发表于 2026-04-28 23:19:34\n0\n0\n评分\n引用\n追踪\n\n愿你撷一路美好前行，一生尽光明磊落~~~~      \n点这里👆有惊喜哦\n早睡打卡一路楼\n\n\n\n\n\n\n6",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bdbd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bdbd"
+    },
+    {
+      "context": "一只嵐嵐饼\n帖数 7873\n粉丝 330\n威望 2\n最后登录 1小时内\n关注\n私信\nbdbd\n发表于 2026-04-28 23:20:23\n0\n0\n评分\n引用\n追踪\n万语难尽涩于口   \n祈尔繁芜胜常春\n7",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bdbd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bdbd"
+    },
+    {
+      "context": "BuleFish\n帖数 1541\n粉丝 127\n威望 2\n最后登录 1小时内\n关注\n私信\nbd\n发表于 2026-04-28 23:20:31\n0\n2\n评分\n引用\n追踪\n8",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bd"
+    },
+    {
+      "context": "茄运行者\n帖数 23\n粉丝 1\n威望 0\n最后登录 1小时内\n关注\n私信\nbdbd\n发表于 2026-04-28 23:29:30\n0\n0\n评分\n引用\n追踪\n9",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">bdbd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "bdbd"
+    },
+    {
+      "context": "Gloria1234\n帖数 72\n粉丝 4\n威望 0\n最后登录 1小时内\n关注\n私信\n哇bdbd\n发表于 2026-04-28 23:29:41\n0\n0\n评分\n引用\n追踪\n10",
+      "html": "<div style=\"align-self: center; margin-top: 1rem; margin-bottom: -1rem;\"></div><div class=\"substance\"><article style=\"white-space: pre-wrap; width: 100%;\">哇bdbd</article></div>",
+      "images": [],
+      "links": [],
+      "text": "哇bdbd"
+    }
+  ],
+  "title": "『浙大AI极速黑客松』0包装0路演，纯粹的技术竞赛。奖金池17500元，第一名3000元，共20人。企业实习、内推，优秀项目孵化支持！欢迎报名参赛&志愿者。也欢迎伙伴们加入共建AI生态 - CC98论坛",
+  "url": "https://www.cc98.org/topic/6492173"
+}
